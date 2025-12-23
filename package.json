@@ -8,8 +8,10 @@
   "private":true,
   "workspaces":{
     "packages":[
-      "packages/module-a",
-      "packages/module-b"
+      "packages/*"
     ]
-  }
+  },
+  "nohoist": [
+    "**/lodash"
+  ]
 }
