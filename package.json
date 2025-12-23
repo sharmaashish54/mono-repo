@@ -1,0 +1,15 @@
+{
+  "name": "monorepo-beginners",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sharmaashish54/mono-repo",
+  "author": "ashishsharma <sharmaashish54@gmail.com>",
+  "license": "MIT",
+  "private":true,
+  "workspaces":{
+    "packages":[
+      "packages/module-a",
+      "packages/module-b"
+    ]
+  },
+}
