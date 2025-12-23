@@ -13,5 +13,9 @@
   },
   "nohoist": [
     "**/lodash"
-  ]
+  ],
+  "scripts":{
+  "start":"mdb"
 }
+}
+

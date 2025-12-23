@@ -7,14 +7,7 @@ lodash@^4.17.21:
   resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
-"module-a@file:/Users/ashishsharma/Desktop/learnings/Angular/mono-repo/monorepo-beginners/packages/module-a":
-  version "1.0.0"
-  resolved "file:packages/module-a"
-  dependencies:
-    lodash "^4.17.21"
-
-"module-b@file:/Users/ashishsharma/Desktop/learnings/Angular/mono-repo/monorepo-beginners/packages/module-b":
-  version "1.0.0"
-  resolved "file:packages/module-b"
-  dependencies:
-    lodash "^4.17.21"
+react@^19.2.3:
+  version "19.2.3"
+  resolved "https://registry.yarnpkg.com/react/-/react-19.2.3.tgz#d83e5e8e7a258cf6b4fe28640515f99b87cd19b8"
+  integrity sha512-Ku/hhYbVjOQnXDZFv2+RibmLFGwFdeeKHFcOTlrt7xplBnya5OGn/hIRDsqDiSUcfORsDC7MPxwork8jBwsIWA==
