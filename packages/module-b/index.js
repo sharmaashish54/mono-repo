@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-console.log('I am module-b dfsd');
+console.log('I am module-b');

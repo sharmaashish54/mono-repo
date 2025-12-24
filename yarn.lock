@@ -2,9 +2,16 @@
 # yarn lockfile v1
 
 
-lodash@^4.17.21:
+"@monorepo-beginners/module-b@^1.0.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@monorepo-beginners/module-b/-/module-b-1.1.0.tgz#e8b66d22ad06d6cd3477cd0f4138c9be36cf9005"
+  integrity sha512-1/1vEUuhSVTclv0umufKE3DSZmEZ1T4ul86qI74gH/NAgz4XCx3xMPd7Ts4nEP1kMudZyi6GTMwAJW2ECZLeHw==
+  dependencies:
+    lodash "^4.17.20"
+
+lodash@^4.17.20:
   version "4.17.21"
-  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 react@^19.2.3:

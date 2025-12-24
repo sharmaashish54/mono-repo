@@ -4,11 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.21",
-    "react": "^19.2.3"
+    "@monorepo-beginners/module-b": "^1.0.0"
   },
   "scripts": {
     "start": "mdb",
     "build": "node ./index.js"
+  },
+  "devDependencies": {
+    "react": "^19.2.3"
   }
 }
